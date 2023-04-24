@@ -1,7 +1,6 @@
 # AI-Text-Based-Summarizer
 
-React.js is a JavaScript library used to create the frontend of a single-page web application. 
-It reduces the complexity of an application by dividing the UI into small and more manageable components. In this project, instead of using npx create-react-app app-name command, we will use $ npm create vite@latest to install all dependencies. This project used RTK Query and Redux Toolkit for advanced redux state management.
+React.js is a JavaScript library used to create the frontend of a single-page web application. It reduces the complexity of an application by dividing the UI into small and more manageable components. In this project, instead of using npx create-react-app app-name command, we will use $ npm create vite@latest to install all dependencies. This project used RTK Query and Redux Toolkit for advanced redux state management. Once you download the porject, change the API private key variable in the services file to fully engage with the app. 
 
 # Getting Started
 Visit https://vitejs.dev/guide/
